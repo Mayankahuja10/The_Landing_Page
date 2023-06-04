@@ -1,11 +1,15 @@
 .flex-div{
     display: flex;
     flex-direction: row;
-    width: 100%;
+    width: 1296px;
+    height: auto;
     justify-content: space-between;
-    
-    
- 
+    padding-bottom: 60px;
+
+}
+.flex-div img{
+    width: 400px;
+    justify-content: center;
 }
 .description p{
     width: 80%;
